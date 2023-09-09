@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <h3 align="center">GISAID update </h3>
+  <h3 align="center">Variant Calling using iVar</h3>
   <p align="center">
 </div>
 
