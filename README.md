@@ -17,7 +17,7 @@ The purpose of this project was to develop a tool using iVar to perfrom variant 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Scripts are comatable with Python 3.9.14+, Pandas 2.0+, iVar 1.4.2+ .
+Scripts are compatable with Python 3.9.14+, Pandas 2.0+, iVar 1.4.2+ .
 
 ### Prerequisites
 
