@@ -11,7 +11,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-The purpose of this project was to track SARS-CoV-2 variatns across the stat of Arizona. This repository contains files used to extract variant data from GISAID outputs. 
+The purpose of this project was to develop a tool using iVar to perfrom variant analysis on BAM files. 
 
 
 <!-- GETTING STARTED -->
