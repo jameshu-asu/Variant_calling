@@ -33,11 +33,11 @@ Scripts are compatable with Python 3.9.14+, Pandas 2.0+, iVar 1.4.2+ .
   ```
 
   ```sh
-  conda install pandas
+  conda install -c conda-forge pandas
   ```
 
   ```sh
-  conda install ivar
+  conda install -c bioconda ivar
   ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
